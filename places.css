@@ -1,0 +1,19 @@
+.one{
+    background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png');
+    background-size:cover;
+    height:100vh;
+    padding:20px;
+}
+.two{
+    font-weight:bold;
+    color:#ffffff;
+}
+.three{
+    background-color:#ffffff;
+}
+.four{
+    color:#6c6b70;
+}
+.five{
+    height:50px;
+}
